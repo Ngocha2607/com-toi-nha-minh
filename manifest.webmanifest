@@ -1,0 +1,17 @@
+{
+  "name": "Cơm Tối Nhà Mình",
+  "short_name": "Cơm Tối",
+  "description": "Bấm một lần để chọn thực đơn bữa tối 4 món cho 3 người lớn.",
+  "lang": "vi",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F1F4EE",
+  "theme_color": "#1F5C3F",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
